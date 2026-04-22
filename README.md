@@ -79,7 +79,7 @@ Alerts/tips to reduce risks
 
 # How the Website Helps Users
 
-After full integration, your website will provide:
+After full integration, our website will provide:
 
 Dimension	                        Benefit to User
 Physical Health    	                Real-time analysis of BP, sugar, weight, lifestyle; personalized plans
