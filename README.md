@@ -1,6 +1,6 @@
 #HEALTH BUDDY PROJECT 
 
-## Ultimate Goal of Your Project
+## Ultimate Goal of our Project
 
 You want to create a premium, AI-powered health monitoring system that covers all dimensions of health:
 
